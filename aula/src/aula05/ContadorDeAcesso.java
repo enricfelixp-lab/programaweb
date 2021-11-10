@@ -8,5 +8,7 @@ public class ContadorDeAcesso {
    }
    public static int getQuantidadeAcessos() {
      return contagem;
+     
+     
    }
 }
